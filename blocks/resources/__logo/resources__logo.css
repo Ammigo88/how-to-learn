@@ -1,0 +1,8 @@
+.resources__logo {
+  height: 38px;
+  width: 270px;
+}
+.resources__logo:hover {
+  transition: 0.7s ease;
+  opacity: 0.4;
+}
