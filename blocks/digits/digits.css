@@ -1,4 +1,7 @@
-@import url(../digits/__table/digits__table.css);
 @import url(../table/__cell/table__cell.css);
 @import url(../table/__heading/table__heading.css);
 @import url(../table/__text/table__text.css);
+
+.digits__table {
+  margin-bottom: 100px;
+}
