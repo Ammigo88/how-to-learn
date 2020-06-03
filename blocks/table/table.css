@@ -1,4 +1,7 @@
-
+@import url(./__cell/table__cell.css);
+@import url(./_theme/table_theme_dark.css);
+@import url(./__heading/table__heading.css);
+@import url(./__text/table__text.css);
 .table {
   width: 1100px;
   justify-content: space-between;
@@ -8,57 +11,4 @@
   padding-left: 0;
   z-index: 1;
 }
-/*
-.table__cell {
-  margin-top: 60px;
-  top: 60px;
-  width: 250px;
-}
 
-.table_theme_dark {
-  margin-top: 0;
-  margin-bottom: 90px;
-}
-
-.table__cell_theme_dark {
-  padding: 0;
-  z-index: 1;
-  width: 200px;
-  color: white;
-  margin-top: 80px;
-}
-
-.table__heading {
-  margin: 0;
-  line-height: 1.15;
-  font-size: 24px;
-  font-weight: bold;
-}
-
-.table__heading_theme_dark {
-  margin-top: 0;
-  line-height: 1.15;
-  font-size: 24px;
-  font-weight: bold;
-}
-
-.table__text {
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
-  margin-top: 20px;
-  margin-bottom: 0;
-}
-.table__text_theme_dark {
-  margin-top: 20px;
-  margin-bottom: 0;
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
-  z-index: 1;
-}
-.table_theme_dark {
-  margin-top: 0;
-  margin-bottom: 90px;
-}
-*/
