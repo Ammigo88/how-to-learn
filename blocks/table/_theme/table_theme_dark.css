@@ -1,4 +1,5 @@
 .table_theme_dark {
+  list-style: none;
   justify-content: space-between;
   display: flex;
   flex-wrap: wrap;
