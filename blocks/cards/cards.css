@@ -5,10 +5,10 @@
 .cards {
   list-style: none;
   width: 920px;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, 240px);
   margin: 0 auto;
   padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 240px);
   gap: 100px;
   row-gap: 60px;
 }
